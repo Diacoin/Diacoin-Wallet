@@ -1,7 +1,7 @@
 # Diacoin-Wallet
-Windows 10 version
-Download the Diacoinwallet.rar
+Windows 64 bit version
+Download the Diacoin-1.rar
 Unzip
 Run the file Diacoin.exe
-Wondow 7 version
-Download and unzip DiacopinwalletB.rar
+
+You can see the video tutorial "Diacoin Windows Wallet, how to use it" on YouTube channel 
